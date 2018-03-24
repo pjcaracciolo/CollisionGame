@@ -1,10 +1,5 @@
 import java.awt.Graphics;
 
-//Collision game Assignment
-//Author: Paul Caracciolo
-//Date: Aug 10, 2016
-//Class: CS160
-//Email: pjcaracc@rams.colostate.edu
 
 public class Scene3 extends Level {
 
