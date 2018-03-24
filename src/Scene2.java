@@ -2,11 +2,6 @@ import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Rectangle;
 
-//Collision game
-//Author: Paul Caracciolo
-//Date: Aug 10, 2016
-//Email: pjcaracc@rams.colostate.edu
-
 public class Scene2 extends Level {
 	public Scene2() {
 		boxX = 100;
