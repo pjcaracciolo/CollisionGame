@@ -10,10 +10,6 @@ import java.util.ArrayList;
 
 import javax.swing.JPanel;
 
-//Collision Game
-//Author: Paul Caracciolo
-//Date: Aug 10, 2016
-//Email: pjcaracc@rams.colostate.edu
 
 public abstract class Level extends JPanel implements KeyListener, MouseMotionListener {
 
